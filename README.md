@@ -1,0 +1,2 @@
+# strings 
+homework from strings
