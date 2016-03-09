@@ -35,7 +35,8 @@ namespace _01ReverseString
             Array.Reverse(inputArray); // reverse the char array
             string output = new string(inputArray); // convert to string
             
-            Console.WriteLine(inputArray); // print reversed string
+
+           Console.WriteLine(inputArray); // print reversed string
           
         }
         /// <summary>
